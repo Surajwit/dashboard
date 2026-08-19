@@ -1,0 +1,2 @@
+include requirements.txt
+recursive-include dashboard *.json *.js *.css *.py *.txt
